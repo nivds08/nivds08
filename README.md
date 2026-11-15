@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="left">Nivedita</h1>
+
+<hr>
+
+<table>
+  <tr>
+    <td align="center" width="35%">
+      <img src="assets/cat.png" width="280" alt="My cat mascot"/>
+    </td>
+    <td align="center" width="65%">
+      <img src="assets/profile-card.svg" width="100%" alt="AI ML Explorer card"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3>📖 Research Interests</h3>
+
+- Large Language Models, Agentic Systems, Post-training, Data Synthesis
+- Evaluation, Recommender Systems, Data Science/Mining, Machine/Deep Learning
+
+<br>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nivedita1011">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nivedita1011">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="CV.pdf">
+    <img src="https://img.shields.io/badge/CV-555555?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
