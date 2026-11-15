@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="left">Nivedita</h1>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=0B1F5B&width=850&lines=Hii%2C+I%27m+Nivedita!;You+wanna+check+out+my+profile%3F+Scroll+down+ahead.;Welcome+to+my+little+corner+of+the+internet!;Curiosity+led+me+here%2C+and+now+I%27m+exploring+AI." />
+</p>
+
 <hr>
 
 
