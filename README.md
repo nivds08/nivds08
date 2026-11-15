@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<table>
-  <tr>
-    <td align="center" width="35%">
-      <img src="assets/cat.png" width="280" alt="My cat mascot"/>
-    </td>
-    <td align="center" width="65%">
-      <img src="assets/profile-card.svg" width="100%" alt="AI ML Explorer card"/>
-    </td>
-  </tr>
-</table>
 
 <br>
 
